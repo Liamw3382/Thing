@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "4181cef3-c452-32c8-a544-99ce83c3c2dd",
+    "name": "Ethan",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c535e178-7fd1-38fa-8a3f-c93f98326470",
+    "name": "Silverisme",
+    "level": 100,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "09661a09-98d2-4215-8fbd-43e0b11a9069",
+    "name": "SilverIsMe",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "32fb1f08-bbf5-34e3-b3a5-c7d14726fcd5",
+    "name": "HackerLiam24",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "3190c1b0-93f9-3051-a84a-b751fed6b50a",
+    "name": "Sliverisme",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
